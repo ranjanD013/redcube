@@ -1,0 +1,63 @@
+/* footer.css */
+.footer {
+    background-color: #000;     
+    width: 100%;
+    padding: 90px 20px 20px 20px;
+  }
+  .footer a { font-size: 20px;}
+  .footer p { text-align: center; }
+  .newsletter h2 { font-size:32px; font-weight: 300; color: #fff;margin-bottom: 50px;  }
+
+  .newsinput { border:1px solid #909090; text-align: left; max-width: 390px;}
+  .newsletter input {
+    background: transparent;    
+    border: 0px;
+    height: 50px;
+   padding: 10px; 
+   line-height: 50px;
+   color: #909090;
+   width: 100%;
+   width: 330px;
+  }
+
+  .newsletter button {
+    background: transparent;
+    border: 0px;
+    height: 50px;
+    padding-right:18px;
+  }
+  .newsletter input:focus { outline: 0;}
+
+  .footer-column { padding-left: 50px;}
+  .footer-column a,
+  .footer-column2 a { font-size: 20px; font-weight: 400; color: #fff; line-height: 40px; }
+  .footer-column a:hover,
+  .footer-column2 a:hover {color: #e50721; }
+  .footer-column a:focus,
+  .footer-column2 a:focus {color: #e50721; }
+
+  .footer-column3 { margin-bottom: 40px;  }
+  .footer-column3 p { text-align: left; font-size: 20px; font-weight: 400; color: #fff; margin-bottom: 10px;}
+  .callsec span { font-size: 20px; font-weight: 400; color: #fff; line-height: 40px; padding-left:5px; }
+  .callsec a { font-size: 18px; font-weight: 400; color: #fff; line-height: 40px; }
+  .hrsec span { font-size: 20px; font-weight: 400; color: #fff; line-height: 40px; padding-left:5px; }
+  .hrsec a { font-size: 18px; font-weight: 400; color: #fff; line-height: 40px; } 
+  .callsec { margin-bottom: 40px;  }
+  .hrsec { margin-bottom: 40px;  }
+
+  .whatApp {
+    color: #fff;
+    font-weight: 700;
+    font-size: 28px;
+    padding: 15px 40px;
+    border: 3px solid green;
+    text-decoration: none;
+    border-radius: 30px;
+  }
+  .whatApp i {
+    color: green;
+    font-size: 35px;
+    padding-right: 15px;
+  }
+
+  h4.getsocial { color: #838383; font-size: 20px; }

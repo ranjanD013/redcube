@@ -1,0 +1,84 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "image": "./images/testimonial1.png",
+      "name": "Tom Bergey",
+      "group": "Bergey Creative Group",
+      "testimonialText": "We have worked with Redcube for the past few years and have always been happy with their communication, their honesty with time estimations, their speed with responses and their ability to deliver within the original timeline and budget agreed upon. We look forward to many more projects with this winning team of development experts.",
+      "CompanyLogo": "./images/bergey.png"
+    },
+    {
+      "id": 2,
+      "image": "./images/testimonial2.png",
+      "name": "Aundrea Young, President & Founder,",
+      "group": "Competitive Choice, Inc.",
+      "testimonialText": "I really enjoy the working relationship we have with Red Cube Digital Media. There team is very responsive and fun to work with. They are extremely solution oriented and highly technical They are very honest and diligent in their work and effort.",
+      "CompanyLogo": "./images/compit-logo.png"
+    },
+    {
+      "id": 3,
+      "image": "./images/testimonial3.png",
+      "name": "Loren Howard",
+      "group": " Prime Plus Mortgages",
+      "testimonialText": "Ajay has been a colleague and partner of mine for many years. He is hard working, genuine, talented and honest. He has build a fantastic company that can handle anything design, development or online marketing related. I highly suggest you take a look at his work if you are in the market.",
+      "CompanyLogo": "./images/prime-plus.png"
+    },
+    {
+      "id": 4,
+      "image": "./images/testimonial4.png",
+      "name": "Jamel Lopez",
+      "group": " Jamel Lopez Miami, USA",
+      "testimonialText": "Fantastic job, great work by AJ, Yash, Puja and team. More coming up.",
+      "CompanyLogo": "./images/zyis-logo.png"
+    },
+    {
+      "id": 5,
+      "image": "./images/testimonial5.png",
+      "name": "Opel Khan",
+      "group": " Sydney, Australia",
+      "testimonialText": "It was great working with AJ & team Redcube",
+      "CompanyLogo": ""
+    },
+    {
+      "id": 6,
+      "image": "./images/testimonial6.png",
+      "name": "Tom Bergey",
+      "group": "Technical Operations Manager ",
+      "testimonialText": "We started working with Redcube on a B2B site redesign in 2014 based on the personal recommendation of a long time client of theirs. Since the beginning they have been very helpful, resourceful, and have had reat design ideas for us. Thanks Redcube!",
+      "CompanyLogo": "./images/vee-gee.png"
+    },
+    {
+      "id": 7,
+      "image": "./images/testimonial7.png",
+      "name": " George",
+      "group": " New York, USA ",
+      "testimonialText": "You Guys are superb! 4 Strong Years. Way to go. ",
+      "CompanyLogo": "./images/green-hill.png"
+    },
+    {
+      "id": 8,
+      "image": "./images/testimonial8.png",
+      "name": "Loren Howard",
+      "group": "Chris Massachusetts, USA",
+      "testimonialText": "Thank you, team. You guys have been Fantastic. Highly recommended.",
+      "CompanyLogo": "./images/balnced-logo.png"
+    },
+    {
+      "id": 9,
+      "image": "./images/testimonial9.png",
+      "name": "Loren Howard",
+      "group": " Prime Plus Mortgages",
+      "testimonialText": "Ajay has been a colleague and partner of mine for many years. He is hard working, genuine, talented and honest. He has build a fantastic company that can handle anything design, development or online marketing related. I highly suggest you take a look at his work if you are in the market.",
+      "CompanyLogo": "./images/prime-plus.png"
+    },
+    {
+      "id": 10,
+      "image": "./images/testimonial10.png",
+      "name": "Loren Howard",
+      "group": " Prime Plus Mortgages",
+      "testimonialText": "Ajay has been a colleague and partner of mine for many years. He is hard working, genuine, talented and honest. He has build a fantastic company that can handle anything design, development or online marketing related. I highly suggest you take a look at his work if you are in the market.",
+      "CompanyLogo": "./images/prime-plus.png"
+    }
+  ]
+}
